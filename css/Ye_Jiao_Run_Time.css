@@ -1,0 +1,15 @@
+div#runtime {
+    width: fit-content; /*自适应宽度*/
+    color: #fff; /*字体颜色 fff是白色*/
+    padding: 0 10px; /*内边距*/
+    border-radius: 10px; /*元素边框圆角半径*/
+    margin:0 auto; /*居中显示*/
+    background-color: rgba(0, 0, 0, 0.3); /*黑色背景，不透明度0.5*/
+    font-weight:  /*字体加粗，报看，已删除*/
+    font-family: /*修改字体的条目，不用可删掉*/
+}
+
+[data-theme="dark"] div#runtime {
+    color: #28b4c8;
+    box-shadow: 0 0 5px rgba(28, 69, 218, 0.3);
+}
