@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>标签测试</title>
+      <link href="/post/451275489.html"/>
+      <url>/post/451275489.html</url>
+      
+        <content type="html"><![CDATA[<p>内容12345645678979870707878978970</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试1 </tag>
+            
+            <tag> 测试2 </tag>
+            
+            <tag> 测试3 </tag>
+            
+            <tag> 测试66666666 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/post/16107.html"/>
       <url>/post/16107.html</url>
