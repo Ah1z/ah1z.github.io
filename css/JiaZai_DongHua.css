@@ -24,7 +24,7 @@
   
   .pace-inactive .pace-progress {
     opacity: 0;
-    transition: 0.3s ease-in;
+    transition: 0.8s ease-in;
   }
   
   .pace .pace-progress {
