@@ -52,7 +52,7 @@
   }
   .pace.pace-inactive {
     opacity: 0;
-    transition: 0.3s;
+    transition: 0.8s;
     top: -8px;
   }
   @keyframes gradient {
