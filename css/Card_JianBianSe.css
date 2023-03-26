@@ -59,21 +59,3 @@
     background-color: linear-gradient(#63c2fd,#789dedd2,#77faff94,#6262f8,#ca41ed);
     border-radius: 8px;
 }
-
-  /* 以下是网页背景渐变色 */
-body {
-  background: linear-gradient(-45deg, #fbd255, #fb55f9, #55b3fb, #fb555c);
-  background-size: 400% 400%;
-  animation: myAnimation 20s ease-in-out infinite;
-}
-
-@keyframes myAnimation {
-  0% { background-position: 0% 50%; }
-  15% { background-position: 100% 0%; }
-  25% { background-position: 100% 50%; }
-  35% { background-position: 100% 100%; }
-  50% { background-position: 100% 0%; }
-  75% { background-position: 0% 100%; }
-  85% { background-position: 0% 0%; }
-  100% { background-position: 0% 50%; }
-}
