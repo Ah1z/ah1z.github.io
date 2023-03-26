@@ -68,8 +68,11 @@ body {
 
 @keyframes myAnimation {
   0% { background-position: 0% 50%; }
+  15% { background-position: 100% 0%; }
   25% { background-position: 100% 50%; }
+  35% { background-position: 100% 100%; }
   50% { background-position: 100% 0%; }
   75% { background-position: 0% 100%; }
+  85% { background-position: 0% 0%; }
   100% { background-position: 0% 50%; }
 }
