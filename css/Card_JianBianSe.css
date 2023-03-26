@@ -56,6 +56,6 @@
   
   /* 个人信息Follow me按钮 */
   #aside-content > .card-widget.card-info > #card-info-btn {
-    background-color: linear-gradient(#63c2fd,#789dedd2,#77faff94,#6262f8,#ca41ed)
+    background-color: linear-gradient(#63c2fd,#789dedd2,#77faff94,#6262f8,#ca41ed);
     border-radius: 8px;
-  }
+}
