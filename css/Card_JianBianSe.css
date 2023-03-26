@@ -59,3 +59,13 @@
     background-color: linear-gradient(#63c2fd,#789dedd2,#77faff94,#6262f8,#ca41ed);
     border-radius: 8px;
 }
+
+body {
+  animation: myAnimation 5s ease-in-out infinite;
+}
+
+@keyframes myAnimation {
+  0% { background: linear-gradient(to bottom right, #fbd255, #fb55f9, #55b3fb, #fb555c); }
+  50% { background: linear-gradient(to bottom right, #fb555c, #fbd255, #fb55f9, #55b3fb); }
+  100% { background: linear-gradient(to bottom right, #55b3fb, #fb555c, #fbd255, #fb55f9); }
+}
