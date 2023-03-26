@@ -80,15 +80,5 @@
   font-size: 5rem;
   line-height: 1;
   text-align: right;
-  color: rgba(8, 1, 1, 0.979)
-}
-
-#loading-box #loading-percentage::before {
-  content: "「";
-  margin-right: 10px
-}
-
-#loading-box #loading-percentage::after {
-  content: "」";
-  margin-left: 10px
+  color: rgba(0, 0, 0, 0.986)
 }
