@@ -62,7 +62,7 @@
 
 body {
   background: linear-gradient(to bottom right, #fbd255, #fb55f9, #55b3fb, #fb555c);
-  animation: myAnimation 30s ease-in-out infinite;
+  animation: myAnimation 10s ease-in-out infinite;
 }
 
 @keyframes myAnimation {
