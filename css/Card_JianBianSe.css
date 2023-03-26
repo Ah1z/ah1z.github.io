@@ -61,14 +61,14 @@
 }
 
 body {
-  background-color: #fbd255;
+  background: linear-gradient(to bottom right, #fbd255, #fb55f9, #55b3fb, #fb555c);
   animation: myAnimation 30s ease-in-out infinite;
 }
 
 @keyframes myAnimation {
-  0% { background-color: #fbd255; }
-  25% { background-color: #fb55f9; }
-  50% { background-color: #55b3fb; }
-  75% { background-color: #fb555c; }
-  100% { background-color: #fbd255; }
+  0% { background-position: top left; }
+  25% { background-position: top right; }
+  50% { background-position: bottom left; }
+  75% { background-position: bottom right; }
+  100% { background-position: top left; }
 }
