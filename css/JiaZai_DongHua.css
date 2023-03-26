@@ -80,7 +80,7 @@
   font-size: 5rem;
   line-height: 1;
   text-align: right;
-  color: rgba(0,0,0,.19999999999999996)
+  color: rgba(8, 1, 1, 0.979)
 }
 
 #loading-box #loading-percentage::before {
@@ -91,11 +91,4 @@
 #loading-box #loading-percentage::after {
   content: "」";
   margin-left: 10px
-}
-
-#loading-box.loaded .loading-bg {
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
-  z-index: -1000
 }
