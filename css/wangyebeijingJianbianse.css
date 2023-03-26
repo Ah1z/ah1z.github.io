@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(to bottom right, #fbd255, #fb55f9, #55b3fb, #fb555c);
-    animation: Gradient 10s ease infinite !important;
+    animation: Gradient 1s ease infinite !important;
   }
   
   @keyframes Gradient {
