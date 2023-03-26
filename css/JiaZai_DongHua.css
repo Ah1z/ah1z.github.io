@@ -68,3 +68,34 @@
     background-position: 0% 50%;
   }
 }
+
+.pace .pace-progress::before {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: .5rem;
+  content: attr(data-progress-text);
+  font-family: "Helvetica Neue",sans-serif;
+  font-weight: 100;
+  font-size: 5rem;
+  line-height: 1;
+  text-align: right;
+  color: rgba(0,0,0,.19999999999999996)
+}
+
+#loading-box #loading-percentage::before {
+  content: "「";
+  margin-right: 10px
+}
+
+#loading-box #loading-percentage::after {
+  content: "」";
+  margin-left: 10px
+}
+
+#loading-box.loaded .loading-bg {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  z-index: -1000
+}
