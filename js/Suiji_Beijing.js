@@ -1,5 +1,4 @@
 var gradients = [
-    'linear-gradient(to right, #0f0c29, #302b63, #24243e)',
     'linear-gradient(to right, #005c97, #363795)',
     'linear-gradient(to right, #6441a5, #2a0845)',
     'linear-gradient(to right, #4b6cb7, #182848)',
