@@ -8,8 +8,14 @@
       <link href="/post/1.html"/>
       <url>/post/1.html</url>
       
-        <content type="html"><![CDATA[<p>type: “Saying”<br>categories: Saying</p><p>这是一条说说测试。</p>]]></content>
+        <content type="html"><![CDATA[<p>这是一条说说测试。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Saying </category>
+          
+      </categories>
       
       
     </entry>
