@@ -25,7 +25,7 @@ setInterval(() => {
     if (second >= 0) {
         time[4] = nol(second);
     }
-    let currentTimeHtml = "👻如幽灵般地运行了："
+    let currentTimeHtml = "👻如幽灵般运行了："
      
     currentTimeHtml += time[1] + '天 ' + time[2] + '小时 ' + time[3] + '分 ' + time[4] + '秒 ';
     document.getElementById("runtime").innerHTML = currentTimeHtml;
