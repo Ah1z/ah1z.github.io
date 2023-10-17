@@ -3,11 +3,11 @@
   <title>My Own Way</title>
   
   <subtitle>Male Blog</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blog.mgtowman.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://blog.mgtowman.com/"/>
   <updated>2023-10-16T17:31:57.781Z</updated>
-  <id>http://example.com/</id>
+  <id>https://blog.mgtowman.com/</id>
   
   <author>
     <name>Mgtow Man</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/post/1.html"/>
-    <id>http://example.com/post/1.html</id>
+    <link href="https://blog.mgtowman.com/post/1.html"/>
+    <id>https://blog.mgtowman.com/post/1.html</id>
     <published>2023-10-17T08:42:19.955Z</published>
     <updated>2023-10-16T17:31:57.781Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/post/16107.html"/>
-    <id>http://example.com/post/16107.html</id>
+    <link href="https://blog.mgtowman.com/post/16107.html"/>
+    <id>https://blog.mgtowman.com/post/16107.html</id>
     <published>2023-10-17T08:42:19.954Z</published>
     <updated>2023-03-20T08:23:02.722Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>标签测试</title>
-    <link href="http://example.com/post/451275489.html"/>
-    <id>http://example.com/post/451275489.html</id>
+    <link href="https://blog.mgtowman.com/post/451275489.html"/>
+    <id>https://blog.mgtowman.com/post/451275489.html</id>
     <published>2023-03-25T12:20:07.000Z</published>
     <updated>2023-03-25T12:23:24.808Z</updated>
     
@@ -77,20 +77,20 @@
     
     
     
-    <category term="测试1" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%951/"/>
+    <category term="测试1" scheme="https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%951/"/>
     
-    <category term="测试2" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%952/"/>
+    <category term="测试2" scheme="https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%952/"/>
     
-    <category term="测试3" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%953/"/>
+    <category term="测试3" scheme="https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%953/"/>
     
-    <category term="测试66666666" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%9566666666/"/>
+    <category term="测试66666666" scheme="https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%9566666666/"/>
     
   </entry>
   
   <entry>
     <title>地址生成，第二次安装后的测试</title>
-    <link href="http://example.com/post/1290014859.html"/>
-    <id>http://example.com/post/1290014859.html</id>
+    <link href="https://blog.mgtowman.com/post/1290014859.html"/>
+    <id>https://blog.mgtowman.com/post/1290014859.html</id>
     <published>2023-03-22T22:34:56.000Z</published>
     <updated>2023-03-22T22:35:12.265Z</updated>
     
@@ -102,8 +102,8 @@
   
   <entry>
     <title>密码测试i</title>
-    <link href="http://example.com/post/456.html"/>
-    <id>http://example.com/post/456.html</id>
+    <link href="https://blog.mgtowman.com/post/456.html"/>
+    <id>https://blog.mgtowman.com/post/456.html</id>
     <published>2023-03-20T16:36:24.000Z</published>
     <updated>2023-03-20T18:28:19.932Z</updated>
     
@@ -119,14 +119,14 @@
     
     
     
-    <category term="早期测试" scheme="http://example.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/"/>
+    <category term="早期测试" scheme="https://blog.mgtowman.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>456再次测试一下文章地址生成。</title>
-    <link href="http://example.com/post/2242443171.html"/>
-    <id>http://example.com/post/2242443171.html</id>
+    <link href="https://blog.mgtowman.com/post/2242443171.html"/>
+    <id>https://blog.mgtowman.com/post/2242443171.html</id>
     <published>2023-03-20T13:33:04.000Z</published>
     <updated>2023-03-20T13:33:22.096Z</updated>
     
@@ -138,8 +138,8 @@
   
   <entry>
     <title>代码高亮测试</title>
-    <link href="http://example.com/post/13370.html"/>
-    <id>http://example.com/post/13370.html</id>
+    <link href="https://blog.mgtowman.com/post/13370.html"/>
+    <id>https://blog.mgtowman.com/post/13370.html</id>
     <published>2023-03-20T12:22:57.000Z</published>
     <updated>2023-03-25T10:47:49.459Z</updated>
     
@@ -155,14 +155,14 @@
     
     
     
-    <category term="代码" scheme="http://example.com/tags/%E4%BB%A3%E7%A0%81/"/>
+    <category term="代码" scheme="https://blog.mgtowman.com/tags/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>看看删除本地md文件后，其它帖子删除了没？</title>
-    <link href="http://example.com/post/46090.html"/>
-    <id>http://example.com/post/46090.html</id>
+    <link href="https://blog.mgtowman.com/post/46090.html"/>
+    <id>https://blog.mgtowman.com/post/46090.html</id>
     <published>2023-03-20T12:22:57.000Z</published>
     <updated>2023-03-25T10:47:20.088Z</updated>
     
@@ -182,8 +182,8 @@
   
   <entry>
     <title>123这是用来测试文章置顶功能的帖子。</title>
-    <link href="http://example.com/post/8aca568.html"/>
-    <id>http://example.com/post/8aca568.html</id>
+    <link href="https://blog.mgtowman.com/post/8aca568.html"/>
+    <id>https://blog.mgtowman.com/post/8aca568.html</id>
     <published>1999-03-20T12:30:25.000Z</published>
     <updated>2023-03-20T12:43:31.075Z</updated>
     
@@ -199,7 +199,7 @@
     
     
     
-    <category term="早期测试" scheme="http://example.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/"/>
+    <category term="早期测试" scheme="https://blog.mgtowman.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
