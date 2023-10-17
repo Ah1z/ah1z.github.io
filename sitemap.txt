@@ -16,8 +16,8 @@ http://example.com/post/2242443171.html
 http://example.com/post/8aca568.html
 http://example.com/post/16107.html
 http://example.com/
-http://example.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/
 http://example.com/tags/%E4%BB%A3%E7%A0%81/
+http://example.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/
 http://example.com/tags/%E6%B5%8B%E8%AF%951/
 http://example.com/tags/%E6%B5%8B%E8%AF%952/
 http://example.com/tags/%E6%B5%8B%E8%AF%953/
