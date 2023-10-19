@@ -6,7 +6,7 @@
   <link href="https://blog.mgtowman.com/atom.xml" rel="self"/>
   
   <link href="https://blog.mgtowman.com/"/>
-  <updated>2023-10-19T08:43:24.463Z</updated>
+  <updated>2023-10-19T08:46:50.749Z</updated>
   <id>https://blog.mgtowman.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blog.mgtowman.com/post/587172525.html"/>
     <id>https://blog.mgtowman.com/post/587172525.html</id>
     <published>2023-10-17T16:34:27.000Z</published>
-    <updated>2023-10-19T08:43:24.463Z</updated>
+    <updated>2023-10-19T08:46:50.749Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html>  <head>    <style>      .tweet-container {        display: flex;        flex-direction: column;        align-items: center;      }      .tweet {        width: 100%;        padding: 16px;        border: 1px solid #ccc; /* 更改边框颜色 */        border-radius: 8px;        margin-bottom: 16px;        display: flex;        flex-direction: column;        background: #f9f9f9; /* 更改背景颜色 */        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */      }      .tweet:hover {        transform: translateY(-2px); /* 鼠标悬停时微微上移 */      }      .tweet-info {        color: #333; /* 更改文字颜色 */        font-size: 16px; /* 增加字体大小 */        position: relative;      }      .tweet-nickname {        color: #888; /* 灰色字体颜色 */        font-size: 14px; /* 较小字体大小 */        margin-bottom: 8px; /* 增加底部间距 */      }      .tweet-date {        color: #555; /* 更改日期颜色 */        font-size: 14px; /* 增加日期字体大小 */        position: absolute;        bottom: 8px;        right: 8px;      }      .page-info {        background: #0cb5e8a2; /* 更改背景颜色 */        color: #fff; /* 更改文字颜色 */        padding: 16px;        border-radius: 8px;        margin-bottom: 16px;        text-align: center;      }    </style>  </head>  <body>    <!-- 独特的说明文本框 -->    <div class="page-info">      <h2>本页说明信息</h2>      <p>在这里添加本页的说明和内容。</p>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容111        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容222        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容333        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        新增内容测试1        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容222        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ --><!--    <script>      // 函数用于添加日期到指定的元素      function addDateToElement(element) {        // 获取当前日期        const currentDate = new Date();        // 格式化日期为 YYYY-MM-DD 形式        const formattedDate = currentDate.toISOString().split('T')[0];        // 查找与该元素关联的日期元素        const dateElement = element.querySelector(".tweet-date");        // 添加日期到日期元素        dateElement.textContent = formattedDate;      }      // 选择所有匹配的元素      const tweetInfoElements = document.querySelectorAll(".tweet-info");      // 为每个元素调用添加日期函数      tweetInfoElements.forEach((element) => {        addDateToElement(element);      });    </script>-->  </body></html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html>  <head>    <style>      .tweet-container {        display: flex;        flex-direction: column;        align-items: center;      }      .tweet {        width: 100%;        padding: 16px;        border: 1px solid #ccc; /* 更改边框颜色 */        border-radius: 8px;        margin-bottom: 16px;        display: flex;        flex-direction: column;        background: #f9f9f9; /* 更改背景颜色 */        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */      }      .tweet:hover {        transform: translateY(-3px); /* 鼠标悬停时微微上移 */      }      .tweet-info {        color: #333; /* 更改文字颜色 */        font-size: 16px; /* 增加字体大小 */        position: relative;      }      .tweet-nickname {        color: #888; /* 灰色字体颜色 */        font-size: 14px; /* 较小字体大小 */        margin-bottom: 8px; /* 增加底部间距 */      }      .tweet-date {        color: #555; /* 更改日期颜色 */        font-size: 14px; /* 增加日期字体大小 */        position: absolute;        bottom: 8px;        right: 8px;      }      .page-info {        background: #0cb5e8a2; /* 更改背景颜色 */        color: #fff; /* 更改文字颜色 */        padding: 16px;        border-radius: 8px;        margin-bottom: 16px;        text-align: center;      }    </style>  </head>  <body>    <!-- 独特的说明文本框 -->    <div class="page-info">      <h2>本页说明信息</h2>      <p>在这里添加本页的说明和内容。</p>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容111        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容222        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容333        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        新增内容测试1        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ -->    <div class="tweet">      <div class="tweet-nickname">        昵称：John Doe      </div>      <div class="tweet-info">        文本内容222        <span class="tweet-date">          <!-- 日期在此自动显示 -->        </span>      </div>    </div>    <!-- ------------------ 分隔符 ------------------ --><!--    <script>      // 函数用于添加日期到指定的元素      function addDateToElement(element) {        // 获取当前日期        const currentDate = new Date();        // 格式化日期为 YYYY-MM-DD 形式        const formattedDate = currentDate.toISOString().split('T')[0];        // 查找与该元素关联的日期元素        const dateElement = element.querySelector(".tweet-date");        // 添加日期到日期元素        dateElement.textContent = formattedDate;      }      // 选择所有匹配的元素      const tweetInfoElements = document.querySelectorAll(".tweet-info");      // 为每个元素调用添加日期函数      tweetInfoElements.forEach((element) => {        addDateToElement(element);      });    </script>-->  </body></html>]]></content>
     
     
       
@@ -165,6 +165,27 @@
   </entry>
   
   <entry>
+    <title>看看删除本地md文件后，其它帖子删除了没？</title>
+    <link href="https://blog.mgtowman.com/post/46090.html"/>
+    <id>https://blog.mgtowman.com/post/46090.html</id>
+    <published>2023-03-20T12:22:57.000Z</published>
+    <updated>2023-03-25T10:47:20.088Z</updated>
+    
+    <content type="html"><![CDATA[<p>1234567890</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1234567890&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>代码高亮测试</title>
     <link href="https://blog.mgtowman.com/post/13370.html"/>
     <id>https://blog.mgtowman.com/post/13370.html</id>
@@ -184,27 +205,6 @@
     
     
     <category term="代码" scheme="https://blog.mgtowman.com/tags/%E4%BB%A3%E7%A0%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>看看删除本地md文件后，其它帖子删除了没？</title>
-    <link href="https://blog.mgtowman.com/post/46090.html"/>
-    <id>https://blog.mgtowman.com/post/46090.html</id>
-    <published>2023-03-20T12:22:57.000Z</published>
-    <updated>2023-03-25T10:47:20.088Z</updated>
-    
-    <content type="html"><![CDATA[<p>1234567890</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;1234567890&lt;/p&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
