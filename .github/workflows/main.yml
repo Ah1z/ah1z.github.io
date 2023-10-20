@@ -1,0 +1,24 @@
+name: Update Fork
+
+on:
+  # 当原始仓库有新的提交时触发工作流程
+  push:
+    branches:
+      - main  # 这里使用你的分支名，通常是 main 或 master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Fetch upstream
+      run: git fetch upstream
+
+    - name: Merge upstream
+      run: git merge upstream/main  # 这里使用原始仓库的分支名
+
+    - name: Push changes
+      run: git push origin main  # 这里使用你的分支名
