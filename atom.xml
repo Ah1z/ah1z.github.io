@@ -18,8 +18,8 @@
   
   <entry>
     <title>【短消息】</title>
-    <link href="https://blog.mgtowman.com/post/587172525"/>
-    <id>https://blog.mgtowman.com/post/587172525</id>
+    <link href="https://blog.mgtowman.com/post/587172525.html"/>
+    <id>https://blog.mgtowman.com/post/587172525.html</id>
     <published>2023-10-17T16:34:27.000Z</published>
     <updated>2023-10-19T08:46:50.749Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title></title>
-    <link href="https://blog.mgtowman.com/post/1"/>
-    <id>https://blog.mgtowman.com/post/1</id>
+    <link href="https://blog.mgtowman.com/post/1.html"/>
+    <id>https://blog.mgtowman.com/post/1.html</id>
     <published>2023-10-17T08:42:19.955Z</published>
     <updated>2023-10-16T17:31:57.781Z</updated>
     
@@ -68,8 +68,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.mgtowman.com/post/16107"/>
-    <id>https://blog.mgtowman.com/post/16107</id>
+    <link href="https://blog.mgtowman.com/post/16107.html"/>
+    <id>https://blog.mgtowman.com/post/16107.html</id>
     <published>2023-10-17T08:42:19.954Z</published>
     <updated>2023-03-20T08:23:02.722Z</updated>
     
@@ -88,8 +88,8 @@
   
   <entry>
     <title>标签测试</title>
-    <link href="https://blog.mgtowman.com/post/451275489"/>
-    <id>https://blog.mgtowman.com/post/451275489</id>
+    <link href="https://blog.mgtowman.com/post/451275489.html"/>
+    <id>https://blog.mgtowman.com/post/451275489.html</id>
     <published>2023-03-25T12:20:07.000Z</published>
     <updated>2023-03-25T12:23:24.808Z</updated>
     
@@ -117,8 +117,8 @@
   
   <entry>
     <title>地址生成，第二次安装后的测试</title>
-    <link href="https://blog.mgtowman.com/post/1290014859"/>
-    <id>https://blog.mgtowman.com/post/1290014859</id>
+    <link href="https://blog.mgtowman.com/post/1290014859.html"/>
+    <id>https://blog.mgtowman.com/post/1290014859.html</id>
     <published>2023-03-22T22:34:56.000Z</published>
     <updated>2023-03-22T22:35:12.265Z</updated>
     
@@ -130,8 +130,8 @@
   
   <entry>
     <title>密码测试i</title>
-    <link href="https://blog.mgtowman.com/post/456"/>
-    <id>https://blog.mgtowman.com/post/456</id>
+    <link href="https://blog.mgtowman.com/post/456.html"/>
+    <id>https://blog.mgtowman.com/post/456.html</id>
     <published>2023-03-20T16:36:24.000Z</published>
     <updated>2023-03-20T18:28:19.932Z</updated>
     
@@ -153,8 +153,8 @@
   
   <entry>
     <title>456再次测试一下文章地址生成。</title>
-    <link href="https://blog.mgtowman.com/post/2242443171"/>
-    <id>https://blog.mgtowman.com/post/2242443171</id>
+    <link href="https://blog.mgtowman.com/post/2242443171.html"/>
+    <id>https://blog.mgtowman.com/post/2242443171.html</id>
     <published>2023-03-20T13:33:04.000Z</published>
     <updated>2023-03-20T13:33:22.096Z</updated>
     
@@ -165,30 +165,9 @@
   </entry>
   
   <entry>
-    <title>看看删除本地md文件后，其它帖子删除了没？</title>
-    <link href="https://blog.mgtowman.com/post/46090"/>
-    <id>https://blog.mgtowman.com/post/46090</id>
-    <published>2023-03-20T12:22:57.000Z</published>
-    <updated>2023-03-25T10:47:20.088Z</updated>
-    
-    <content type="html"><![CDATA[<p>1234567890</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;1234567890&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>代码高亮测试</title>
-    <link href="https://blog.mgtowman.com/post/13370"/>
-    <id>https://blog.mgtowman.com/post/13370</id>
+    <link href="https://blog.mgtowman.com/post/13370.html"/>
+    <id>https://blog.mgtowman.com/post/13370.html</id>
     <published>2023-03-20T12:22:57.000Z</published>
     <updated>2023-03-25T10:47:49.459Z</updated>
     
@@ -209,9 +188,30 @@
   </entry>
   
   <entry>
+    <title>看看删除本地md文件后，其它帖子删除了没？</title>
+    <link href="https://blog.mgtowman.com/post/46090.html"/>
+    <id>https://blog.mgtowman.com/post/46090.html</id>
+    <published>2023-03-20T12:22:57.000Z</published>
+    <updated>2023-03-25T10:47:20.088Z</updated>
+    
+    <content type="html"><![CDATA[<p>1234567890</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1234567890&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>123这是用来测试文章置顶功能的帖子。</title>
-    <link href="https://blog.mgtowman.com/post/8aca568"/>
-    <id>https://blog.mgtowman.com/post/8aca568</id>
+    <link href="https://blog.mgtowman.com/post/8aca568.html"/>
+    <id>https://blog.mgtowman.com/post/8aca568.html</id>
     <published>1999-03-20T12:30:25.000Z</published>
     <updated>2023-03-20T12:43:31.075Z</updated>
     
