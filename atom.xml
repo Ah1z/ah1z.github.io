@@ -6,7 +6,7 @@
   <link href="https://blog.mgtowman.com/atom.xml" rel="self"/>
   
   <link href="https://blog.mgtowman.com/"/>
-  <updated>2023-10-20T12:06:52.011Z</updated>
+  <updated>2023-10-20T12:08:42.245Z</updated>
   <id>https://blog.mgtowman.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="https://blog.mgtowman.com/post/2923054698.html"/>
     <id>https://blog.mgtowman.com/post/2923054698.html</id>
     <published>2023-10-20T12:03:58.000Z</published>
-    <updated>2023-10-20T12:06:52.011Z</updated>
+    <updated>2023-10-20T12:08:42.245Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。"><a href="#没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。" class="headerlink" title="没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。"></a>没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。</h2><h2 id="测试完毕-删除网址html后缀会触发进度条抽搐BUG。1-如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。2-如果删除后缀。关闭Pjax就会出现每一篇文章都是404错误。"><a href="#测试完毕-删除网址html后缀会触发进度条抽搐BUG。1-如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。2-如果删除后缀。关闭Pjax就会出现每一篇文章都是404错误。" class="headerlink" title="测试完毕.删除网址html后缀会触发进度条抽搐BUG。1.如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。2.如果删除后缀。关闭Pjax就会出现每一篇文章都是404错误。"></a>测试完毕.<br>删除网址html后缀会触发进度条抽搐BUG。<br>1.如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。<br>2.如果删除后缀。关闭Pjax就会出现每一篇文章都是404错误。</h2><p>昨天没有这个情况，开启pjax同时删除html后缀显示，依然正常。<br>但今天，不知道为什么。</p>]]></content>
+    <content type="html"><![CDATA[<p>没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。</p><p>测试完毕.<br>删除网址html后缀会触发进度条抽搐BUG。<br>1.如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。<br>2.如果删除后缀。关闭Pjax就会出现每一篇文章都是404错误。</p><p>昨天没有这个情况，开启pjax同时删除html后缀显示，依然正常。<br>但今天，不知道为什么。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。&quot;&gt;&lt;a href=&quot;#没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。&quot; class=&quot;headerlink&quot; title=&quot;没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。&quot;&gt;&lt;/a</summary>
+    <summary type="html">&lt;p&gt;没有任何内容，BUG出现后的新建文档，测试进度条抽搐情况。&lt;/p&gt;
+&lt;p&gt;测试完毕.&lt;br&gt;删除网址html后缀会触发进度条抽搐BUG。&lt;br&gt;1.如果删除后缀。开启Pjax就会卡载入界面，进度条抽搐，无法进入页面。&lt;br&gt;2.如果删除后缀。关闭Pjax就会出现每一篇文章都</summary>
       
     
     
