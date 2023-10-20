@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/New-Page/link/</loc>
+    <loc>https://blog.mgtowman.com/New-Page/link/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/categories/</loc>
+    <loc>https://blog.mgtowman.com/categories/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/New-Page/about/</loc>
+    <loc>https://blog.mgtowman.com/New-Page/about/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/New-Page/Gallery/</loc>
+    <loc>https://blog.mgtowman.com/New-Page/Gallery/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/New-Page/movies/</loc>
+    <loc>https://blog.mgtowman.com/New-Page/movies/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/New-Page/music/</loc>
+    <loc>https://blog.mgtowman.com/New-Page/music/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/archives/</loc>
+    <loc>https://blog.mgtowman.com/archives/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.mgtowman.com/tags/</loc>
+    <loc>https://blog.mgtowman.com/tags/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -173,20 +173,6 @@
 
   
   <url>
-    <loc>https://blog.mgtowman.com/tags/%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2023-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.mgtowman.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%951/</loc>
     <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -209,6 +195,20 @@
   
   <url>
     <loc>https://blog.mgtowman.com/tags/%E6%B5%8B%E8%AF%9566666666/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mgtowman.com/tags/%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mgtowman.com/tags/%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
