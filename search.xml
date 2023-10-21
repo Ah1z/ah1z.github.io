@@ -8,7 +8,7 @@
       <link href="/post/10660288.html"/>
       <url>/post/10660288.html</url>
       
-        <content type="html"><![CDATA[<p>以下是第一张图片测试</p><p><img src="/" alt="https://cdn.leonus.cn/post/2023-08-18%20224530.webp"></p><script>  // 获取所有文章中的图片  const images = document.querySelectorAll('img');  images.forEach((image) => {    image.addEventListener('error', function () {      // 图片加载错误时，将图床链接替换为第二个图床链接      if (image.src === 'https://cdn.leonus.cn/post/2023-08-18%20sdasasda.webp') {        image.src = 'https://cdn.leonus.cn/post/2023-08-18%20224530.webp';      }    });  });</script><p>以下是第二张图片测试。</p><p><img src="/" alt="https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp"></p><script>  // 获取所有文章中的图片  const images = document.querySelectorAll('img');  images.forEach((image) => {    image.addEventListener('error', function () {      // 图片加载错误时，将图床链接替换为第二个图床链接      if (image.src === 'https://cdn.leonus.cn/post/2023-08-18%20231355.webp') {        image.src = 'https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp';      }    });  });</script><p>测试结束。</p>]]></content>
+        <content type="html"><![CDATA[<p>以下是第一张图片测试</p><p><img src="/" alt="https://cdn.leonus.cn/post/2023-08-18%20224530.webp"></p><p>以下是第二张图片测试。</p><p><img src="/" alt="https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp"></p><script>  // 获取所有文章中的图片  const images = document.querySelectorAll('img');  images.forEach((image) => {    image.addEventListener('error', function () {      // 图片加载错误时，将图床链接替换为第二个图床链接      if (image.src === 'https://cdn.leonus.cn/post/2023-08-18%20224530.webp') {        image.src = 'https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp';      }    });  });</script><p>测试结束。</p>]]></content>
       
       
       
