@@ -6,7 +6,7 @@
   <link href="https://blog.mgtowman.com/atom.xml" rel="self"/>
   
   <link href="https://blog.mgtowman.com/"/>
-  <updated>2023-10-20T12:08:42.245Z</updated>
+  <updated>2023-10-21T14:40:50.920Z</updated>
   <id>https://blog.mgtowman.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>备份图床测试</title>
+    <link href="https://blog.mgtowman.com/post/10660288.html"/>
+    <id>https://blog.mgtowman.com/post/10660288.html</id>
+    <published>2023-10-21T14:40:50.920Z</published>
+    <updated>2023-10-21T14:40:50.920Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下是第一张图片测试</p><script>  // 获取所有文章中的图片  const images = document.querySelectorAll('img');  images.forEach((image) => {    image.addEventListener('error', function () {      // 图片加载错误时，将图床链接替换为第二个图床链接      if (image.src === 'https://cdn.leonus.cn/post/2023-08-18%20sdasasda.webp') {        image.src = 'https://cdn.leonus.cn/post/2023-08-18%20224530.webp';      }    });  });</script><p>以下是第二张图片测试。</p><script>  // 获取所有文章中的图片  const images = document.querySelectorAll('img');  images.forEach((image) => {    image.addEventListener('error', function () {      // 图片加载错误时，将图床链接替换为第二个图床链接      if (image.src === 'https://cdn.leonus.cn/post/2023-08-18%20231355.webp') {        image.src = 'https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp';      }    });  });</script><p>测试结束。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;以下是第一张图片测试&lt;/p&gt;
+&lt;script&gt;
+  // 获取所有文章中的图片
+  const images = document.querySelectorAll(&#39;img&#39;);
+  images.forEach((image) =&gt; {
+    image.addEve</summary>
+      
+    
+    
+    
+    
+    <category term="图" scheme="https://blog.mgtowman.com/tags/%E5%9B%BE/"/>
+    
+    <category term="床" scheme="https://blog.mgtowman.com/tags/%E5%BA%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>测试进度条是否抽搐</title>
