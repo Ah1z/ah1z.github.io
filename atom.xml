@@ -6,7 +6,7 @@
   <link href="https://blog.mgtowman.com/atom.xml" rel="self"/>
   
   <link href="https://blog.mgtowman.com/"/>
-  <updated>2023-10-21T15:02:15.355Z</updated>
+  <updated>2023-10-21T15:03:42.531Z</updated>
   <id>https://blog.mgtowman.com/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="https://blog.mgtowman.com/post/10660288.html"/>
     <id>https://blog.mgtowman.com/post/10660288.html</id>
     <published>2023-10-25T02:00:00.000Z</published>
-    <updated>2023-10-21T15:02:15.355Z</updated>
+    <updated>2023-10-21T15:03:42.531Z</updated>
     
-    <content type="html"><![CDATA[<p>以下是第一张图片测试</p><p><img src="https://cdn.leonus.cn/post/2023-%E9%9D%92%E8%94%B7%E8%96%87224530.webp" alt="图片描述"></p><script>  // 确保文档已加载完成后执行逻辑  document.addEventListener('DOMContentLoaded', function() {    // 获取所有文章中的图片    const images = document.querySelectorAll('img');    // 定义图片的备份链接映射    const backupLinks = {      'https://cdn.leonus.cn/post/2023-08-18%20224530.webp': 'https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp',      'https://cdn.leonus.cn/post/2023-08-18%20231355.webp': 'https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp',      // 添加更多备份链接和对应的图片链接    };        images.forEach((image) => {      image.addEventListener('error', function () {        // 获取图片的原始链接        const originalSrc = image.getAttribute('src');            // 检查备份链接映射中是否有对应的备份链接        if (backupLinks[originalSrc]) {          image.src = backupLinks[originalSrc]; // 替换为备份链接        }      });    });  });</script><p>以下是第二张图片测试</p><p><img src="https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp" alt="图片描述"></p><p>测试结束。</p>]]></content>
+    <content type="html"><![CDATA[<p>以下是第一张图片测试</p><p><img src="https://cdn.leonus.cn/post/2023-%E9%9D%92%E8%94%B7%E8%96%87224530.webp" alt="图片描述"></p><p>以下是第二张图片测试</p><p><img src="https://cdn.leonus.cn/post/VeryCapture_20230818234405.webp" alt="图片描述"></p><p>测试结束。</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;以下是第一张图片测试&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.leonus.cn/post/2023-%E9%9D%92%E8%94%B7%E8%96%87224530.webp&quot; alt=&quot;图片描述&quot;&gt;&lt;/p&gt;
-&lt;script&gt;
-  // 确保文档已加载</summary>
+&lt;p&gt;以下是第二张图片测试&lt;/p&gt;
+&lt;p&gt;</summary>
       
     
     
